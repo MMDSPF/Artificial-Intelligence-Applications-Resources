@@ -1,5 +1,14 @@
 # Artificial-Intelligence-Applications-Resources
 
+## Industry Applications
+
+### Finance
+
+**Bloomberggpt: A large language model for finance.**<br>
+*S Wu, O Irsoy, S Lu, V Dabravolski, M Dredze, S Gehrmann, P Kambadur, D Rosenberg.*<br>
+arXiv:2303.17564, 2023.
+[[Paper](https://arxiv.org/html/2303.17564v3)]
+
 ## AGENT
 
 **A survey on large language model based autonomous agents.**<br>
