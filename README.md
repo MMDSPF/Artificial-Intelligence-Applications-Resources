@@ -1,6 +1,6 @@
-# Artificial-Intelligence-Applications-Resources
+# Artificial-Intelligence-Applications-Integration-Resources
 
-## Industry Applications
+## AI Industry Applications
 
 ### Finance
 
@@ -23,7 +23,7 @@ arXiv:2305.15075, 2023.
 arXiv:2405.10825, 2024.
 [[Paper](https://arxiv.org/pdf/2405.10825)]
 
-## Agent
+## AI Agent
 
 **Large language model (llm) for telecommunications: A comprehensive survey on principles, key techniques, and opportunities.**<br>
 *L Wang, C Ma, X Feng, Z Zhang, H Yang, J Zhang, Z Chen, J Tang, X Chen, Y Lin, WX Zhao, et al.*<br>
