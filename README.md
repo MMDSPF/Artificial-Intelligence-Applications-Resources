@@ -1,6 +1,6 @@
 # Artificial-Intelligence-Applications-Integration-Resources
 
-## AI Industry Applications
+## AI +
 
 ### Finance
 
