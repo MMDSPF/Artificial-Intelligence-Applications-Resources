@@ -16,6 +16,36 @@ arXiv:2303.17564, 2023.
 arXiv:2305.15075, 2023.
 [[Paper](https://arxiv.org/pdf/2305.15075)]
 
+### Law
+
+**Lawyer llama technical report.**<br>
+*Q Huang, M Tao, C Zhang, Z An, C Jiang, et al.*<br>
+arXiv, 2023.
+[[Paper](https://arxiv.org/pdf/2305.15062)]
+
+### Software
+
+**Lawyer llama technical report.**<br>
+*Q Huang, M Tao, C Zhang, Z An, C Jiang, et al.*<br>
+arXiv, 2023.
+[[Paper](https://arxiv.org/pdf/2305.15062)]
+
+### Education
+
+**Towards applying powerful large ai models in classroom teaching: Opportunities, challenges and prospects.**<br>
+*K Tan, T Pang, C Fan, S Yu.*<br>
+arxiv:2305.03433, 2023.
+[[Paper](https://arxiv.org/pdf/2305.03433)]
+
+### Research
+
+#### Optics
+
+**OpticalBERT and OpticalTable-SQA: Text- and Table-Based Language Models for the Optical-Materials Domain.**<br>
+*J Zhao, S Huang, JM Cole.*<br>
+Journal of Chemical Information and Modeling, 2023.
+[[Paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c01259)]
+
 ### TeleCom
 
 **Large language model (llm) for telecommunications: A comprehensive survey on principles, key techniques, and opportunities.**<br>
