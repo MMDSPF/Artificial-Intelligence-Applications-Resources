@@ -25,9 +25,9 @@ arXiv, 2023.
 
 ### Software
 
-**Lawyer llama technical report.**<br>
-*Q Huang, M Tao, C Zhang, Z An, C Jiang, et al.*<br>
-arXiv, 2023.
+**Using an LLM to Help With Code Understanding.**<br>
+*D Nam, A Macvean, V Hellendoorn, et al.*<br>
+ICSE, 2024.
 [[Paper](https://arxiv.org/pdf/2305.15062)]
 
 ### Education
@@ -35,7 +35,7 @@ arXiv, 2023.
 **Towards applying powerful large ai models in classroom teaching: Opportunities, challenges and prospects.**<br>
 *K Tan, T Pang, C Fan, S Yu.*<br>
 arxiv:2305.03433, 2023.
-[[Paper](https://arxiv.org/pdf/2305.03433)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639187)]
 
 ### Research
 
@@ -55,7 +55,7 @@ arXiv:2405.10825, 2024.
 
 ## AI Agent
 
-**Large language model (llm) for telecommunications: A comprehensive survey on principles, key techniques, and opportunities.**<br>
+**A Survey on Large Language Model based Autonomous Agents.**<br>
 *L Wang, C Ma, X Feng, Z Zhang, H Yang, J Zhang, Z Chen, J Tang, X Chen, Y Lin, WX Zhao, et al.*<br>
 Frontiers of Computer Science, 2024.
 [[Homepage](https://link.springer.com/article/10.1007/s11704-024-40231-1)]
