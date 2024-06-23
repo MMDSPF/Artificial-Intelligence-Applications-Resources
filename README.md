@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Applications-Integration-Resources
+# AI-Applications-Integration-Resources
 
 ## AI +
 
